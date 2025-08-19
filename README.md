@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Mohanned Ashraf
 
-<!--
-**MohannedAshraf/MohannedAshraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graduate in Computer and Systems Engineering**, passionate about **Flutter development** and **cybersecurity**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Top Skills & Technologies
+
+- **Flutter & Dart**
+- **Cybersecurity fundamentals**
+- **Networking concepts**
+- **RESTful APIs integration**
+- **State Management:** Bloc, Cubit, Provider
+- **Git & GitHub**
+
+---
+
+## 🌟 Favorite or Proudest Projects
+
+- **Citio:** A smart city application offering digital services for citizens.
+- **Voca:** A voice-based learning app designed to help users practice and improve communication.
+- **E-commerce App:** A mobile shopping application with modern UI and dynamic API integration.
+
+---
+
+## 🏆 Awards & Certifications
+
+- **Mobile App Developer using Flutter** – NTI Training (1 month)
+- **Mobile App Developer using Flutter** – Digital Egypt Organization (6 months)
+
+---
+
+## 👤 Short Bio / Motto
+
+> "Always curious, always building – passionate about creating impactful apps that connect people and simplify lives."
+
+---
+
+## 🌐 Social Links
+
+- [LinkedIn](https://www.linkedin.com/in/mohanned-ashraf/)
+- [Facebook](https://www.facebook.com/mohanned.ashref/)
+- [X (Twitter)](https://x.com/Mohanned012790)
+
+---
+
+## 🎲 Fun Facts & Hobbies
+
+- Enjoys exploring new tech trends in mobile development.
+- Loves problem-solving and working on team projects.
+- Interested in UI/UX design and how technology improves everyday life.
