@@ -7,10 +7,10 @@
 ## 🚀 Top Skills & Technologies
 
 - **Flutter & Dart**
-- **Cybersecurity fundamentals**
-- **Networking concepts**
 - **RESTful APIs integration**
 - **State Management:** Bloc, Cubit, Provider
+- **Networking concepts**
+- **Cybersecurity fundamentals**
 - **Git & GitHub**
 
 ---
